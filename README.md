@@ -1,0 +1,4 @@
+exbreadcrumbs
+=============
+
+Extended breadcrumbs widget
